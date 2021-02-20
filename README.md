@@ -10,5 +10,7 @@
 ## Результаты
 
 1. Неуспешный тест
-2. [Баг-репорт](https://github.com/AnastasiaMR/Precision/issues/1)
+2. [При подсчете нового бонуса получен неверный результат](https://github.com/AnastasiaMR/Precision/issues/1)
 
+## Окружение:
+Windows 10 Pro 64-разрядная операционная система, Java 11.0.10
